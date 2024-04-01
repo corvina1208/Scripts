@@ -8,8 +8,8 @@
 | datafile.sql | Data file 번호, 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/datafile.md) |
 | controlfile.sql | Control file 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/controlfile.md) |
 | tablespace.sql | Tablespace 이름, 파일 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/tablespace.md) |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
 | test | test test test test | [[CODE]] |
 | test | test test test test | [[CODE]] |
 | test | test test test test | [[CODE]] |
