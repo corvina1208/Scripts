@@ -10,23 +10,17 @@
 | tablespace.sql | Tablespace 이름, 파일 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/tablespace.md) |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
-| test | test test test test | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
+|  |  | [[CODE]] |
