@@ -7,7 +7,7 @@
 | logfile.sql | Redo log group 멤버 확인 (log file 위치) | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/logfile.md) |
 | datafile.sql | Data file 번호, 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/datafile.md) |
 | controlfile.sql | Control file 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/controlfile.md) |
-| tablespace.sql | test test test test | [[CODE]] |
+| tablespace.sql | test test test test | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/tablespace.md) |
 | test | test test test test | [[CODE]] |
 | test | test test test test | [[CODE]] |
 | test | test test test test | [[CODE]] |
