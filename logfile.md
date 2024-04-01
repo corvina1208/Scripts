@@ -5,4 +5,4 @@ SELECT GROUP#, member
   FROM v$logfile
   ORDER BY GROUP#;
 ```
-<img src="https://github.com/corvina1208/Scripts/blob/main/logfile.png>
+<img src="https://github.com/corvina1208/Scripts/blob/main/logfile.png">
