@@ -9,7 +9,8 @@
 | controlfile.sql | Control file 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/controlfile.md) |
 | tablespace.sql | Tablespace 이름, 파일 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/tablespace.md) |
 | space.sql | Tablespace 의 총 용량 / 사용된 용량 / 남은 용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/space.md) |
-| sga.sql | SGA 영역 관련 설정값 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
+| sga.sql | SGA 영역 구성요소들의 현재 사이즈 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
+| asm.sql | ASM dick 사용량 조 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/asm.md) |
 |  |  | [[CODE]] |
 
 | NAME | DESCRIPTION | CODE |
