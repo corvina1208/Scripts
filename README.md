@@ -8,7 +8,7 @@
 | datafile.sql | Data file 번호, 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/datafile.md) |
 | controlfile.sql | Control file 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/controlfile.md) |
 | tablespace.sql | Tablespace 이름, 파일 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/tablespace.md) |
-| space.sql | tablespace 의 총 용량 / 사용된 용량 / 남은 용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/space.md) |
+| space.sql | Tablespace 의 총 용량 / 사용된 용량 / 남은 용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/space.md) |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
