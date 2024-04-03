@@ -11,8 +11,9 @@
 | space.sql | Tablespace 의 총 용량 / 사용된 용량 / 남은 용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/space.md) |
 | sga.sql | SGA 영역 관련 설정값 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
 |  |  | [[CODE]] |
-|-----|-----|-----|
+
 | NAME | DESCRIPTION | CODE |
+|-----|-----|-----|
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
