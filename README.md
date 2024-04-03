@@ -18,8 +18,8 @@
 |-----|-----|-----|
 | table_sc.sql | 테이블명, 스키마명 입력 시 테이블 생성 스크립트 추출 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/table_sc.md) |
 | segment.sql | Segment 명 입력 시 해당 Tablespce 확인| [[CODE]](https://github.com/corvina1208/Scripts/blob/main/segment.md) |
-| extent.sql | 테이블명 입력 시 Segment 와 그 안의 Extent 가 몇 개인지 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/extent.md) |
-|  |  | [[CODE]] |
+| extent.sql | 테이블명 입력 시 Segment 와 그 안의 Extent 갯수 확 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/extent.md) |
+| block.sql | 테이블명 입력 시 Segment, Extent & Block 갯수 확인 | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
