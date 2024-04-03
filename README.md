@@ -10,7 +10,7 @@
 | tablespace.sql | Tablespace 이름, 파일 위치 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/tablespace.md) |
 | space.sql | Tablespace 의 총 용량 / 사용된 용량 / 남은 용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/space.md) |
 | sga.sql | SGA 영역 관련 설정값 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
-| gt.sql | Table 명 입력 후 자동으로 통계정보 수집 | [[CODE]] |
+| gt.sql | 입력한 Table 자동으로 통계정보 수집 | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
