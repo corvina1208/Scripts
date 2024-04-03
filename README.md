@@ -14,7 +14,7 @@
 
 | NAME | DESCRIPTION | CODE |
 |-----|-----|-----|
-|  |  | [[CODE]] |
+| table_sc.sql | 테이블명, 스키마명 입력하면 테이블 생성 스크립트 추출 | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
