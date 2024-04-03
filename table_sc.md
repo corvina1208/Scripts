@@ -10,3 +10,4 @@ select  dbms_metadata.get_ddl('TABLE', TABLE_NAME, upper('&p_user'))
     from  user_tables
     where  table_name=upper('&p_table');
 ```
+<img src="https://github.com/corvina1208/Scripts/blob/main/table_sc.png">
