@@ -12,11 +12,12 @@
 | sga.sql | SGA 영역 구성요소들의 현재 사이즈 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
 | asm.sql | ASM dick 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/asm.md) |
 |  |  | [[CODE]] |
+|  |  | [[CODE]] |
 
 | NAME | DESCRIPTION | CODE |
 |-----|-----|-----|
 | table_sc.sql | 테이블명, 스키마명 입력하면 테이블 생성 스크립트 추출 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/table_sc.md) |
-|  |  | [[CODE]] |
+| segment.sql | Segment 명 입력하면 해당 Tablespce 확인| [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
