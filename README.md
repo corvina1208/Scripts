@@ -12,7 +12,8 @@
 | sga.sql | SGA 영역 구성요소들의 현재 사이즈 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
 | asm.sql | ASM disk 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/asm.md) |
 
-
+<br/>
+<br/>
 
 | NAME | DESCRIPTION | CODE |
 |-----|-----|-----|
