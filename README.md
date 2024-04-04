@@ -20,7 +20,7 @@
 | segment.sql | Segment 명 입력 시 해당 Tablespce 확인| [[CODE]](https://github.com/corvina1208/Scripts/blob/main/segment.md) |
 | extent.sql | 테이블명 입력 시 Segment 와 그 안의 Extent 갯수 확 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/extent.md) |
 | block.sql | 테이블명 입력 시 Segment, Extent & Block 갯수 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/block.md) |
-|  |  | [[CODE]] |
+| table.sql | Default Tablespace 확인 | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
 |  |  | [[CODE]] |
