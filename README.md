@@ -11,8 +11,6 @@
 | space.sql | Tablespace 의 총 용량 / 사용된 용량 / 남은 용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/space.md) |
 | sga.sql | SGA 영역 구성요소들의 현재 사이즈 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
 | asm.sql | ASM disk 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/asm.md) |
-|  |  | [[CODE]] |
-|  |  | [[CODE]] |
 
 | NAME | DESCRIPTION | CODE |
 |-----|-----|-----|
@@ -22,7 +20,4 @@
 | block.sql | 테이블명 입력 시 Segment, Extent & Block 갯수 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/block.md) |
 | table.sql | Default Tablespace 확인 | [[CODE]] |
 | temp_space.sql | Temporary Tablespace 전체 사이즈, 사용량 확인 | [[CODE]] |
-|  |  | [[CODE]] |
-|  |  | [[CODE]] |
-|  |  | [[CODE]] |
-|  |  | [[CODE]] |
+
