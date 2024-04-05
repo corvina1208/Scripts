@@ -1,4 +1,4 @@
-```
+```sql
 SELECT instance_name, STATUS
   FROM v$instance;
 ```
