@@ -23,6 +23,6 @@
 | `temp_space.sql` | Temporary Tablespace 전체 사이즈, 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/temp_space.md) |
 | `system_priv` | 내가 소유한 시스템 권한 확인 | [[CODE]] |
 | `obj_priv` | 내가 소유한 객체 권한 확인 | [[CODE]] |
-| Cell 7   | Cell 8   | Cell 9   |
-| Cell 10  | Cell 11  | Cell 12  |
-| Cell 13  | Cell 14  | Cell 15  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
