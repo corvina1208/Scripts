@@ -1,4 +1,4 @@
-```
+```sql
 select segment_name, tablespace_name
   from dba_segments
   where segment_name = upper('&segment_name');
