@@ -24,5 +24,5 @@
 | `extent.sql` | 테이블명 입력 시 Segment 와 그 안의 Extent 갯수 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/extent.md) |
 | `block.sql` | 테이블명 입력 시 Segment, Extent & Block 갯수 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/block.md) |
 | `table.sql` | Default Tablespace 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/table.md) |
-| `temp_space.sql` | Temporary Tablespace 전체 사이즈, 사용량 확인 | [[CODE]] |
+| `temp_space.sql` | Temporary Tablespace 전체 사이즈, 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/temp_space.md) |
 
