@@ -15,12 +15,6 @@
 | `asm.sql` | ASM 디스크 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/asm.md) |
 | `fra_space.sql` | Archive log file 이 생성되는 FRA 디스크 그룹의 여유공간 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/fra_space.md) |
 | `parameter.sql` | 파라미터명 입력 시 현재 값, 바로 변경 가능 여부 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/parameter.md) |
-
-<br>
-<br>
-
-| NAME | DESCRIPTION | CODE |
-|:---:|:---:|:---:|
 | `table_sc.sql` | 테이블명, 스키마명 입력 시 테이블 생성 스크립트 추출 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/table_sc.md) |
 | `segment.sql` | Segment 명 입력 시 해당 Tablespce 확인| [[CODE]](https://github.com/corvina1208/Scripts/blob/main/segment.md) |
 | `extent.sql` | 테이블명 입력 시 Segment 와 그 안의 Extent 갯수 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/extent.md) |
