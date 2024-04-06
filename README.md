@@ -23,6 +23,6 @@
 | `temp_space.sql` | Temporary Tablespace 전체 사이즈, 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/temp_space.md) |
 | `system_priv` | 내가 소유한 시스템 권한 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/system_priv.md) |
 | `obj_priv` | 내가 소유한 객체 권한 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/obj_priv.md) |
-|  |  |  |
+| `resource.sql` | Resource 사용에 대한 제한을 지정 (직접 입력) | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/resource.md) |
 |  |  |  |
 |  |  |  |
