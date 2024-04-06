@@ -14,7 +14,7 @@
 | `sga.sql` | SGA 영역 구성요소들의 현재 사이즈 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/sga.md) |
 | `asm.sql` | ASM 디스크 사용량 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/asm.md) |
 | `fra_space.sql` | Archive log file 이 생성되는 FRA 디스크 그룹의 여유공간 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/fra_space.md) |
-| `parameter.sql` | Parametr 이름 입력 시 현재값, 변경 시 바로 반영 가능 여부 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/parameter.md) |
+| `parameter.sql` | Parameter 이름 입력 시 현재값, 변경 시 바로 반영 가능 여부 확인 | [[CODE]](https://github.com/corvina1208/Scripts/blob/main/parameter.md) |
 
 <br>
 <br>
